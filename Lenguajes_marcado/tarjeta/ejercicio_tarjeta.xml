@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tarjeta.css"?>
+<TarjetaPresentacion>
+  <nombre>Antonio Martinez</nombre>
+  <trabajo>Estudiante de Doctorado</trabajo>
+  <telefono>5534524074</telefono>
+  <email>maga94@comunidad.unam.mx</email>
+</TarjetaPresentacion>

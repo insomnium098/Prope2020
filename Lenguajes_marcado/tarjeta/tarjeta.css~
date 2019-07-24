@@ -1,0 +1,38 @@
+TarjetaPresentacion {
+	font-family: Arial;			/* Familia tipográfica. */
+	background-color: #FFDFC7;	/* Color de fondo */
+	width: 300px;				/* Ancho */
+	padding: 10pt;				/* Relleno (espacio que existe en un contenedor entre el contenido y los bordes del contenedor) */
+	border: 1px solid #352F2B;	/* Borde de 1 pixel de grosor, línea sólida y color #352F2B */
+	margin: 5px;				/* Margen que existe entre un elemento y los que tenga al lado */
+	text-align: left;			/* Alineación del texto a la izquierda */
+}
+
+nombre {
+	color: #3C41FF;				/* Color del texto */
+	font-size: 140%;			/* Tamaño de la fuente. */
+	display: block;				/* Muestra un elemento como un elemento de bloque. Comienza en una nueva línea y ocupa todo el ancho */
+	margin-bottom: 3%;			/* Margen inferior */
+}
+
+trabajo {
+	color: #AB00FF;
+	font-size: 100%;
+	display: block;
+	margin-bottom: 3%;
+}
+
+telefono {
+	color: #870011;
+	font-size: 80%;
+	display: block;
+	margin-bottom: 3%;
+}
+
+email {
+	color: #AB00FF;
+	font-size: 90%;
+	display: block;
+	margin-bottom: 3%;
+}
+

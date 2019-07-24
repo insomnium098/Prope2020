@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+	<!-- head: 
+	Contiene los metadatos:
+	- Título del documento
+	- Conjunto de caracteres
+	- Scripts (css, JS) -->
+	<head>
+		<!-- Pon un título a tu paginita-->
+		<title></title>
+		<!--Codificación utf-8 -->
+		<meta charset="utf-8">
+		<!-- Scripts -->
+		<link rel="stylesheet" type="text/css" href="./css/estilo.css">
+	</head>
+	<!--body: Aquí va todo el contenido de la página -->
+	<body>
+		<!-- Esto es un comentario -->
+		<!-- Encabezados -->
+		
+		<!--Párrafos:
+		- Salto de línea
+		- Espacios
+		- Texto preformateado -->
+	
+		<!-- Resaltar el texto -->
+
+		<!-- Negritas -->
+		<!-- Itálicas -->
+
+		<!--Listas -->
+		<!--Ordenadas-->
+
+		<!--Desordenadas
+	 	Opciones del atributo "type":
+	 	- disc
+	 	- square
+	 	- circle
+	 	-->
+
+	 	<!--Links-->
+
+	 	<!--Imágenes -->
+	 	<!--url-->
+	 	<!-- horizontal rule: es un break temático -->
+	 	<!--computadora-->
+
+		<!-- Tablas 
+		- tr - filas
+		- th - encabezado de tabla
+		- td - celda de tabla 
+		-->
+
+		<!--Entrada de datos-->
+		<!--Formularios -->
+
+		<!-- Áreas de texto -->
+
+		<!-- Videos -->
+
+		<!-- Botones -->
+
+		<!--JavaScript-->
+	</body>
+</html>

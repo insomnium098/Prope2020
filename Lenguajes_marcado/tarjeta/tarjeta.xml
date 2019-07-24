@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tarjeta.css"?>
+<TarjetaPresentacion>
+	<nombre>Daenerys Targaryen</nombre>
+	<trabajo>Madre de dragones, la que no arde, rompedora de cadenas y liberadora de esclavos</trabajo>
+	<telefono tipo="casa">+55 20203030</telefono>
+	<telefono tipo="oficina">+55 45453333</telefono>
+	<telefono tipo="movil">+55 33442233</telefono>
+	<email>khaleesi@ciencias.unam.mx</email>
+</TarjetaPresentacion>
